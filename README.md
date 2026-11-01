@@ -24,6 +24,8 @@ MCUの問題なのかどちらか不明ですが終盤でバグって止まっ�
 下手くそゲーマーならではの悩みです  
 <img width="224" height="256" alt="0000" src="https://github.com/user-attachments/assets/e9b88496-a3f9-47ac-bead-3d61777bb73d" />  
 
+**チート使用で一周確認はしました**
+
 一応完成した気はします  
 
 このリポジトリは自分の勉強用です  
