@@ -52,7 +52,6 @@ MCUの問題なのかどちらか不明ですが終盤でバグって止まっ�
 <img width="738" height="1020" alt="coin" src="https://github.com/user-attachments/assets/815477d3-c8de-43f1-a75c-e4ed098fc31a" />  
 <img width="740" height="1014" alt="op" src="https://github.com/user-attachments/assets/2f318b0f-2342-4d56-baa2-e9d0da397eca" />  
 <img width="741" height="1023" alt="title" src="https://github.com/user-attachments/assets/4a51215e-a3d6-4086-b476-226384da5225" />  
-
 <img width="224" height="256" alt="0001" src="https://github.com/user-attachments/assets/b32db497-083b-4412-bcee-6364caabd91d" />   
 <img width="224" height="256" alt="0002" src="https://github.com/user-attachments/assets/e3e96d60-1300-4c8e-9f5f-87eb52025743" />  
 <img width="224" height="256" alt="0003" src="https://github.com/user-attachments/assets/ccc1e407-9be6-4695-8f1d-dde39014bef5" />  
