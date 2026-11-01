@@ -16,6 +16,11 @@ MCUは代替MCUで動作させる予定です
 
 あくまで無料AI使ってやってるので能率は悪いです  
 
+現在の公開情報でMCU以外はなんとかなります  
+このリポジトリは自分の勉強用です
+
+奇々怪界のWindows 11へのインストール方法とかは自分でおながいします  
+
 <img width="739" height="1017" alt="play" src="https://github.com/user-attachments/assets/7c84db8b-8414-4f3f-981e-e202d1631055" />
 <img width="738" height="1020" alt="coin" src="https://github.com/user-attachments/assets/815477d3-c8de-43f1-a75c-e4ed098fc31a" />
 <img width="740" height="1014" alt="op" src="https://github.com/user-attachments/assets/2f318b0f-2342-4d56-baa2-e9d0da397eca" />
