@@ -37,4 +37,3 @@ MCUは代替MCUで動作させる予定です
 <img width="224" height="256" alt="0005" src="https://github.com/user-attachments/assets/b0e6ec21-5550-4e01-bd22-67ddf187cf4a" />
 <img width="224" height="256" alt="0007" src="https://github.com/user-attachments/assets/cc1c3ba4-5b23-4f46-ab75-cdc63c92acbb" />
 <img width="224" height="256" alt="0006" src="https://github.com/user-attachments/assets/56faea16-2ac2-46a4-afcd-c77ceb091f91" />
-MAME 0.243での動作
