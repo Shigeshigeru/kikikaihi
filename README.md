@@ -37,10 +37,10 @@ FBneoの動作確認~~はまだなのでなんとかします~~
 make_kikikai.batを実行してください  
 というかもうコレでいいと思いますが~~  
 
-まとめて変換Pythonスクリプト作ってもらいました  
+**まとめて変換Pythonスクリプト作ってもらいました  
 history、conv_tools内のmake_kikikai_zip.pyで一括変換できます  
 make_kikikai.batはおまけです  
-参考用の古いものはhistory、conv_toolsのoldフォルダに移動させました  
+参考用の古いものはhistory、conv_toolsのoldフォルダに移動させました  **
 
 代替MCU完成しましたがチートの問題なのか  
 MCUの問題なのかどちらか不明ですが終盤でバグって止まったりします  
