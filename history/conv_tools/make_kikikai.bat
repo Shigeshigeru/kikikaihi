@@ -1,17 +1,7 @@
 Echo off
-REM ƒƒfƒBƒAƒJƒCƒg”ÅŠïX‰öŠE‚©‚ç‚ÌROM’Šoƒoƒbƒ`
+REM ãƒ¡ãƒ‡ã‚£ã‚¢ã‚«ã‚¤ãƒˆç‰ˆå¥‡ã€…æ€ªç•Œã‹ã‚‰ã®ROMæŠ½å‡ºãƒãƒƒãƒ
+REM åŒã˜ãƒ•ã‚©ãƒ«ãƒ€ã« MPU1ROM.BIN MPU1BROM.BIN MPU2ROM.BIN Clrtable.bin PTRNIMG.BIN ã‚’ç½®ã„ã¦å®Ÿè¡Œ
 
-REM MPUROM‚Æ‚©ì¬
-python3 Split_mpu_roms.py
+python3 make_kikikai_zip.py . kikikai.zip
 
-REM ƒJƒ‰[PROMì¬
-python3 make_proms.py Clrtable.bin
-
-REM ƒOƒ‰ƒqƒbƒNROMì¬
-python3 ptrn_to_mame_kikikai.py PTRNIMG.BIN .
-
-REM ‘ã‘ÖMCUì¬
-python3 make_mcu_rom.py 01771197 a85-01_jph1020p.h8
-
-Echo ì¬‚³‚ê‚½a85‚©‚çn‚Ü‚éƒtƒ@ƒCƒ‹‚ğkikikai.zip‚É‚Ü‚Æ‚ß‚Ä‚­‚¾‚³‚¢
 pause
