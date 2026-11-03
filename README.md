@@ -24,6 +24,9 @@ FBneoの動作確認~~はまだなのでなんとかします~~
 よく分からないのでまたそれも調べておきます~~  
 めんどくさいのでやめです  
 
+<img width="224" height="256" alt="kikikai-11-03-152735" src="https://github.com/user-attachments/assets/d4cdc79a-e5d6-4cdf-8589-4dddea90a888" />  
+<img width="224" height="256" alt="kikikai-11-03-152433" src="https://github.com/user-attachments/assets/f31f0bcf-9bf5-4f9e-95eb-44ac07dafbfb" />  
+
 現在の公開情報でMCU~~以外はなんとかなります~~  
 も代替MCU作成できると思います  
 
