@@ -48,7 +48,7 @@ MCUの問題なのかどちらか不明ですが終盤でバグって止まっ�
 下手くそゲーマーならではの悩みです  
 <img width="224" height="256" alt="0000" src="https://github.com/user-attachments/assets/e9b88496-a3f9-47ac-bead-3d61777bb73d" />    
 
-**チート使用で一周確認はしました**  
+**チート使用で一周確認はしました(MAME 0.289使用)**  
 <img width="224" height="256" alt="0001" src="https://github.com/user-attachments/assets/a5b5c97e-4d3a-4fda-a9ba-ba73c2ac89a8" />  
 <img width="224" height="256" alt="0003" src="https://github.com/user-attachments/assets/6a942523-1fd8-4f08-9b9d-eee8e694cb27" />  
 <img width="224" height="256" alt="0005" src="https://github.com/user-attachments/assets/c59028e5-cde4-4347-8de4-1e66d759c354" />  
